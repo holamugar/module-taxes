@@ -3,7 +3,7 @@
     "description": "Taxes for Argentina for Magento2.",
     "require": {
         "php": "~7.2.0||~7.3.0||~7.4.0",
-        "magento/module-directory": "100.*"
+        "magento/module-tax": "100.*"
     },
     "type": "magento2-module",
     "version": "0.1.0",
